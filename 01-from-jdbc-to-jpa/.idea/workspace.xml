@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a1c3552-3ef2-43a7-88fb-844c3bf33aab" name="Default Changelist" comment="Init">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gauro/database/bootstrap/BootStrapCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gauro/database/bootstrap/JpaDemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gauro/database/entity/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gauro/database/jdbc/PersonJdbcDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gauro/database/jpa/PersonJpaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+    <list default="true" id="8a1c3552-3ef2-43a7-88fb-844c3bf33aab" name="Default Changelist" comment="JPA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615900564197</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="JPA">
+      <created>1615907915513</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615907915514</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="JPA" />
+    <option name="LAST_COMMIT_MESSAGE" value="JPA" />
   </component>
 </project>
